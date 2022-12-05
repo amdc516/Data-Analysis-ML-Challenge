@@ -1,5 +1,5 @@
 # Data-Analysis-ML-Challenge
-This is the first challenge I've attempted to complete. The dataset used consists of data per session from Google's Merchandise Store.
+This is the first challenge I've attempted to complete that includes ML. The dataset used consists of data per session from Google's Merchandise Store.
 
 Summary:
 This challenge is presented in two parts. In the first one I created five different charts/graphs to help analyze the data. In the second part I used a logistic regression model to help predict whether a user will buy an item or not.
